@@ -1,10 +1,10 @@
-#TrafficLight Sample
+# TrafficLight Sample
 
 [TrafficLight introduce](http://192.157.220.24/archives/247)
 
-##Execute
+## Execute
 ‘python trafficMain.py
 
 
-##Video
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzc4NzUxNDA0NA==' frameborder=0 'allowfullscreen'></iframe>
+## Video
+<embed src='http://player.youku.com/player.php/sid/XMzc4NzUxNDA0NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
