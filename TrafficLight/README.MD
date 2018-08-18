@@ -2,9 +2,9 @@
 
 [TrafficLight introduce](http://192.157.220.24/archives/247)
 
+[Demo Video](https://v.youku.com/v_show/id_XMzc4NzUxNDA0NA==.html?spm=a2hzp.8244740.0.0)
+
 ## Execute
-‘python trafficMain.py
-
-
-## Video
-<embed src='http://player.youku.com/player.php/sid/XMzc4NzUxNDA0NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+``` python
+python trafficMain.py
+```
