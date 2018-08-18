@@ -1,0 +1,22 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# for Mac OS X System Files
+.DS_Store
+Thumbs.db
+
+# for IDEA
+*/build/*
+.idea/*
+*.iml
+/out/*
