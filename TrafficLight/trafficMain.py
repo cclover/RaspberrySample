@@ -1,4 +1,11 @@
 #-*- encoding=utf8 -*-
+'''
+@author: cheng chao
+@contact: chengchao128@gmail.com
+@file: trafficMain.py
+@time: 2018-8-18
+@desc:
+'''
 
 import RPi.GPIO as GPIO
 import sys

@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+'''
+@author: cheng chao
+@contact: chengchao128@gmail.com
+@file: timer.py
+@time: 2018-8-18
+@desc:
+'''
 
 from threading import Timer
 
